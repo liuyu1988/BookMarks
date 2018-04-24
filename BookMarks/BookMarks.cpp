@@ -2,10 +2,13 @@
 //
 
 #include "stdafx.h"
+#include "bookmark.h"
 
+using namespace bookmark;
 
 int main()
 {
+	Entry entry;
     return 0;
 }
 
